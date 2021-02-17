@@ -9,7 +9,9 @@ description: This website helps you configuring my plugin
 * ​[SpigotMC](https://www.spigotmc.org/members/lonedev.88296/#resources)​
 * ​[Website](https://www.matteodev.it/)​
 * ​[Steam developer page](https://store.steampowered.com/developer/LoneDev/)​
-* ​[Discord](https://discord.gg/4dfnpUK)​
+* ​[Discord](https://discord.gg/4dfnpUK)
+
+​
 
 {% hint style="danger" %}
 ## Please if you have ⛔️Adblock installed disable it because it blocks some of the website features! <a id="please-if-you-have-adblock-installed-disable-it-because-it-blocks-some-of-the-website-features"></a>
