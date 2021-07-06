@@ -9,4 +9,6 @@
   * [Items Holograms](configurations/items-holograms.md)
   * [Optimize entities](configurations/optimize-entities.md)
   * [TPS actions](configurations/tps-actions.md)
+* [📒Support](support/README.md)
+  * [🐞Report a bug](support/report-a-bug.md)
 
