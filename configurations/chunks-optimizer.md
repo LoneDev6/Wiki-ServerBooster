@@ -2,18 +2,18 @@
 description: chunks_optimizer.yml
 ---
 
-# Chunks optimizer
+# 📦 Chunks optimizer
 
 {% hint style="info" %}
-This config allows to optimize how chunks are managed in Minecraft.  
+This config allows to optimize how chunks are managed in Minecraft.\
 What you can do:
 
-* **detect chunks** with **lagging** mechanics \(redstone machines, 0 tick machines, water or lava lagging the server, plugins listening to high frequency block updates\)
-* **lower down chunks packets** sending **frequency** to players if the server TPS is low or if the player ping is high \(to avoid player losing connection if they have slow internet\)
-* **unload chunks** from **RAM** when players are not around them, to avoid high RAM usage, low TPS and crash
+* **detect chunks **with **lagging **mechanics (redstone machines, 0 tick machines, water or lava lagging the server, plugins listening to high frequency block updates)
+* **lower down chunks packets **sending **frequency **to players if the server TPS is low or if the player ping is high (to avoid player losing connection if they have slow internet)
+* **unload chunks **from **RAM **when players are not around them, to avoid high RAM usage, low TPS and crash
 {% endhint %}
 
-\(Description of the option is in gray\)
+(Description of the option is in gray)
 
 ```yaml
 slow-down-chunk-packets:
@@ -59,4 +59,3 @@ unload-chunks:
     - world_nether
     - world_the_end
 ```
-

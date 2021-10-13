@@ -1,4 +1,4 @@
-# ⚙️First install
+# ⚙ First install
 
 ## Installing the plugin
 
@@ -11,6 +11,5 @@
 
 ### If you want glowing item drops:
 
-* Install **GlowAPI** \(for MC [&lt;1.12](https://github.com/InventivetalentDev/GlowAPI/releases/tag/1.4.6-SNAPSHOT), MC [1.12+](https://github.com/InventivetalentDev/GlowAPI/releases)\) 
+* Install **GlowAPI** (for MC [<1.12](https://github.com/InventivetalentDev/GlowAPI/releases/tag/1.4.6-SNAPSHOT), MC [1.12+](https://github.com/InventivetalentDev/GlowAPI/releases)) 
 * Install [PacketListenerAPI](https://www.spigotmc.org/resources/api-packetlistenerapi.2930/)
-

@@ -2,18 +2,18 @@
 description: config_holo.yml
 ---
 
-# Items Holograms
+# ℹ Items Holograms
 
 {% hint style="info" %}
 This config allows you to:
 
-* show **holograms** on dropped items \(item name\)
-* **merge** dropped items **above** the **64 stack** limit, to avoid lag
-* **merge** dropped **unstackable items** \(on the ground\)
-* glow the **items** to make them more recognizable by players
+* show **holograms **on dropped items (item name)
+* **merge **dropped items **above **the **64 stack **limit, to avoid lag
+* **merge **dropped **unstackable items **(on the ground)
+* glow the **items **to make them more recognizable by players
 {% endhint %}
 
-\(Description of the option is in gray\)
+(Description of the option is in gray)
 
 ```yaml
 # language of the holograms (items names). folder: "lang"
@@ -177,4 +177,3 @@ Yorùbá = yo_ng
 简体中文 - 中国 = zh_cn
 繁體中文 - 台灣 = zh_tw
 ```
-

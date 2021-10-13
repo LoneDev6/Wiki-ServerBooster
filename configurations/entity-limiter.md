@@ -2,16 +2,16 @@
 description: config_entity_limiter.yml
 ---
 
-# Entity limiter
+# 🐖 Entity limiter
 
 {% hint style="info" %}
-This configuration helps **reducing enity counter** in the server to **avoid lag**.  
-This is an alternative to stacking plugins as they alter gameplay stacking entities into a single one.  
-  
+This configuration helps **reducing enity counter **in the server to **avoid lag**.\
+This is an alternative to stacking plugins as they alter gameplay stacking entities into a single one.\
+\
 ServerBooster lowers down server lag just limiting entity groups without alterating the gameplay.
 {% endhint %}
 
-\(Description of the option is in gray\)
+(Description of the option is in gray)
 
 ```yaml
 #language of the messages (in lang_limiter folder)
@@ -88,19 +88,17 @@ limits:
 ```
 
 {% hint style="warning" %}
-To avoid entities from being removed \(like enderman farms entities and similar\) you have to **rename** the **entities** using a [nametag](https://minecraft.gamepedia.com/Name_Tag).
+To avoid entities from being removed (like enderman farms entities and similar) you have to **rename **the **entities **using a [nametag](https://minecraft.gamepedia.com/Name_Tag).
 
 There are some methods to avoid entity removal:
 
-* **rename** the entities using nametag
-* put the entity on a **vehicle** \(**minecart**, **boat**\)
-* make the entity **Invulnerable** \(NBT tag\)
-* **tame** the entity \(only **dog**, **cat**...\)
-* entity has an **item equipped** \(armor, item in hand\)
+* **rename **the entities using nametag
+* put the entity on a **vehicle **(**minecart**, **boat**)
+* make the entity **Invulnerable **(NBT tag)
+* **tame **the entity (only **dog**, **cat**...)
+* entity has an **item equipped **(armor, item in hand)
 * is a [Guardian ](https://minecraft.gamepedia.com/Guardian)or [Elder Guardian](https://minecraft.gamepedia.com/Elder_Guardian)
 {% endhint %}
-
-
 
 
 

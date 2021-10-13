@@ -2,7 +2,7 @@
 description: config_tps.yml
 ---
 
-# TPS actions
+# 🏃 TPS actions
 
 {% hint style="info" %}
 This config allows you to execute commands when a low TPS value is reached.
@@ -32,4 +32,3 @@ tps-commands:
           command: "minecraft:kill @e[type=item]"
           delay_ticks: 1200
 ```
-

@@ -2,7 +2,7 @@
 description: config_optimize_entities.yml
 ---
 
-# Optimize entities
+# ⚡ Optimize entities
 
 {% hint style="info" %}
 This config allows you to:
@@ -11,7 +11,7 @@ This config allows you to:
 * limit entities AI to avoid useless CPU processing
 {% endhint %}
 
-\(Description of the option is in gray\)
+(Description of the option is in gray)
 
 ```yaml
 ### Override bukkit.yml and spigot.yml configs
@@ -101,4 +101,3 @@ worlds:
   - world_nether
   - world_the_end
 ```
-
